@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9874" started-at="2022-04-21T17:29:38Z" finished-at="2022-04-21T17:29:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9874" started-at="2022-04-21T17:29:38Z" finished-at="2022-04-21T17:29:48Z">
+      <class name="com.testCass.LaunchingSample">
+        <test-method status="PASS" signature="normalLaunch()[pri:0, instance:com.testCass.LaunchingSample@8715b5]" name="normalLaunch" duration-ms="9837" started-at="2022-04-21T17:29:38Z" finished-at="2022-04-21T17:29:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normalLaunch -->
+      </class> <!-- com.testCass.LaunchingSample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

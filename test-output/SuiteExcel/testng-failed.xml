@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuiteExcel]">
+  <test thread-count="5" name="TestExcel(failed)">
+    <classes>
+      <class name="com.testCass.Excel">
+        <methods>
+          <include name="loginVerificationSoftAssert" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- com.testCass.Excel -->
+    </classes>
+  </test> <!-- TestExcel(failed) -->
+</suite> <!-- Failed suite [SuiteExcel] -->
